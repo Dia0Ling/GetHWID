@@ -1,0 +1,6 @@
+﻿  main.cpp
+I:\Project\C++\GetHWID\GetHWID\main.cpp(28,13): error C2084: 函数“std::string get_cpu_id(void)”已有主体
+I:\Project\C++\GetHWID\GetHWID\main.cpp(14,13): message : 参见“get_cpu_id”的前一个定义
+I:\Project\C++\GetHWID\GetHWID\main.cpp(127,17): error C2086: “std::string result”: 重定义
+I:\Project\C++\GetHWID\GetHWID\main.cpp(55,17): message : 参见“result”的声明
+I:\Project\C++\GetHWID\GetHWID\main.cpp(188,14): error C2065: “get_cpu_id”: 未声明的标识符
